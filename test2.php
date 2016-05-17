@@ -7,3 +7,6 @@
  */
 
 echo "hello word!";
+
+
+dump($_SERVER);
